@@ -85,20 +85,20 @@ img{ /*Deixar imagens responsivas*/
     list-style: none;
     padding: 0;
     margin-top: 20px;
-    margin-right: 50px;
+    
 
 }
 
 .menu_link{
     display: block;
     padding: 15px;
-    background:rgba(251, 168, 25, 0.644);
+    background:rgba(187, 172, 147, 0.644);
     text-decoration: none; /*Tira a estilização de link. aparência*/
     color: #FFF;
 }
 
 .menu_link:hover, .select{
-    background: #FBA919;
+    background: rgba(251, 168, 25, 0.63);
     color: white;
 }
 
