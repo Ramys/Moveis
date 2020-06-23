@@ -225,6 +225,7 @@ img{ /*Deixar imagens responsivas*/
     font-size: 13px;
     font-family: 'Open Sans', sans-serif;
     color: #CD853F;
+    margin-bottom: 20px;
 
 }
 
@@ -349,7 +350,7 @@ img{ /*Deixar imagens responsivas*/
     }
 
     .copy {
-        margin-bottom: 10px;
+        margin-bottom: 20px;
     }
     
     
@@ -407,6 +408,10 @@ img{ /*Deixar imagens responsivas*/
 
     .footer .social[class^="icon-"]{
         margin: 0 10px;
+    }
+
+    .copy {
+        margin-bottom: 20px;
     }
 
      
